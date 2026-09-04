@@ -1,0 +1,7 @@
+# Archivos sensibles o innecesarios
+*.log
+.env
+credenciales*
+.DS_Store
+__pycache__/
+*.pyc
